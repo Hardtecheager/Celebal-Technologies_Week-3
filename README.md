@@ -1,10 +1,10 @@
 # Celebal-Technologies_Week-3
-# Dataset of your choice and do the visualization
+ Dataset of your choice and do the visualization
 
 # Data Visualization Project
-# This project is a data visualization project using Python and Plotly. The project aims to visualize a dataset of population of different countries.
+ This project is a data visualization project using Python and Plotly. The project aims to visualize a dataset of population of different countries.
 
-## Dataset
+ Dataset
 
 The dataset used in this project is a sample dataset of population of different countries. The dataset is as follows:
 
